@@ -1,5 +1,5 @@
 # discovery-framework-spring-simple-project
-Simple project with Spring Framework 4.0 and AngularJS
+Simple project with Spring Framework 4.0 and AngularJS.
 
 #### Requirements
 ------------
