@@ -1,3 +1,13 @@
+/Servers
+/.metadata
+/application.yml
+/application.properties
+*~
+.#*
+*#
+target
+bin
+/data
 .classpath
 .project
 .settings/
